@@ -7,7 +7,7 @@ class InventoryController {
     }
 
     def edit (){
-        def productName = "Breakfast Blend"
+        def productName = "Random product"
 
         [product: productName]
     }
